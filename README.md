@@ -12,7 +12,7 @@
 저는 핀테크를 포함한 전반적인 금융경제 산업의 거래 시장과 온라인 광고 마케팅을 주로 연구하지만,     
 여러분들 중에서 데이터애널리스트 또는 데이터싸이언티스트로 경쟁력을 갖추고 본인을 브랜딩하는데 관심있는 학생들을 모집합니다.     
 
-![Image](https://github.com/user-attachments/assets/f876ba27-0a6e-470f-973a-df459c4a49c9)
+![Image](https://github.com/user-attachments/assets/a8ade96b-25b1-4f5b-8ab3-daa76e8b52ae)
 
 - **1기 멤버:** 손도언, 차명주, 장민재, 임보민
 - **2기 멤버:** 박재흥, 유효정, 조은지, 강보현, 이현서, 방가연, 조성훈, 이준형
