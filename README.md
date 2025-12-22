@@ -20,6 +20,6 @@
 - **1기 멤버:** 손도언, 차명주, 장민재, 임보민
 - **2기 멤버:** 박재흥, 유효정, 조은지, 강보현, 이현서, 방가연, 이준형
 - **3기 멤버:** 수련중.. (약 6개월의 스터디와 프로젝트 수련 후 정식멤버로 임명됨)
-- [**세부소개 및 올해 프로젝트 계획**](https://github.com/thekimk/DIVE-Research/blob/main/%5BDocument%5D/%EC%86%8C%EA%B0%9C%EC%9A%B4%EC%98%81%EC%9E%90%EB%A3%8C/DEBA_Introduction_20250101.pptx)
+- [**세부소개 및 올해 프로젝트 계획**](https://github.com/thekimk/DIVE-Research/blob/main/%5BDocument%5D/%EC%86%8C%EA%B0%9C%EC%9A%B4%EC%98%81%EC%9E%90%EB%A3%8C/DIVE_Introduction_20260101.pdf)
 - **정기모집 지원방법:** [`구글 폼`](https://docs.google.com/forms/d/e/1FAIpQLScWGLWgGfGMFT8fkvSRSA-bgmcd6IUw1TA234tH05XEQOQCzw/viewform) 작성시 지원 완료되며, 합격자는 지원 마감 후 2주내 통보 예정
 - **수시모집 지원방법:** 지원마감 후에도 [`구글 폼`](https://docs.google.com/forms/d/e/1FAIpQLScWGLWgGfGMFT8fkvSRSA-bgmcd6IUw1TA234tH05XEQOQCzw/viewform)을 작성하면 언제든 역량과 소그룹 상황을 고려하여 `추가선발!`할 수 있으며 다음 분기부터 활동 가능
