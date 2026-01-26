@@ -2,5 +2,3 @@ Journal of Business Research
 Electronic Commerce Research and Applications
 Expert Systems with Applications
 Decision Support Systems
-Expert Systems with Applications
-Decision Support Systems
