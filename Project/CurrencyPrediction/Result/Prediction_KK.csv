@@ -1,4 +1,4 @@
-﻿Data,Y True,Y_ Pred,Feature Case,Model,Lookback
+﻿Date,Y True,Y Pred,Feature Case,Model,Lookback
 2023-12-28,1289.23,1293.8883,Macro Only,LSTM,5
 2024-01-02,1311.32,1290.3934,Macro Only,LSTM,5
 2024-01-03,1309.5,1312.4788,Macro Only,LSTM,5
